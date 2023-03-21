@@ -1,28 +1,27 @@
-# Create T3 App
+# Wander Buddy
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+Wander Buddy is a personal project app for people who travel to get recommendations about things to
+do where they're going and maybe interact with and meet with other people that live or will also be
+travelling there during their trip duration
 
-## What's next? How do I make an app with this?
+## User Stories
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+[] As a user, I want to be able to search for recommendations on things to do, such as restaurants, attractions, and events, in a specific location that I plan to visit.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+[] As a user, I want to be able to filter my search results by category, price range, and rating, so that I can find options that meet my preferences.
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+[] As a user, I want to be able to see detailed information about each recommendation, such as reviews, hours of operation, and photos, so that I can make an informed decision.
 
-## Learn More
+[] As a user, I want to be able to save recommendations to a list, so that I can refer to them later during my trip.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+[] As a user, I want to be able to connect with other users who live in or are visiting the same location, so that I can get more personalized recommendations and maybe even meet up with them during my trip.
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+[] As a user, I want to be able to chat with other users and share information about our experiences, so that I can get real-time advice and make new connections.
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+[] As a user, I want to be able to create my own recommendations and share them with other users, so that I can contribute to the community and help others who are traveling to the same location.
 
-## How do I deploy this?
+[] As a user, I want to be able to receive notifications about new recommendations or messages from other users, so that I can stay up-to-date and engaged with the app.
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+[] As a user, I want to be able to rate and review recommendations that I've tried, so that I can provide feedback to other users and help improve the quality of the app.
+
+[] As a user, I want to be able to access the app from my mobile device, so that I can use it while I'm on the go and have all the information I need at my fingertips.
